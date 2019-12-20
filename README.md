@@ -11,4 +11,4 @@ This contains all the notebooks and predictions relevant to finding the best mod
 
 # Part 2: Sentiment Analysis of candidates before and after the debate
 
-This contains all the notebooks and prediction related to the popularity of a candidate before and after the 
+This contains all the notebooks and prediction related to the popularity of a candidate before and after the democratic national convention
